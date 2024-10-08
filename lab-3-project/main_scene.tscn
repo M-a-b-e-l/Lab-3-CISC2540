@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://cbp1nyj732lkb"]
+
+[node name="Main Scene" type="Node2D"]
+
+[node name="Mabel" type="Node2D" parent="."]
+position = Vector2(429, 219)
+
+[node name="Sarah" type="Node2D" parent="."]
+position = Vector2(392, 111)
+
+[node name="Wynn" type="Node2D" parent="."]
+position = Vector2(294, 147)
